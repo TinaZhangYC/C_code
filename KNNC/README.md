@@ -22,11 +22,11 @@ Run 'make' in the source directory
 KNNC [options] infile
 
 	Options:
-		\-k	the length of k-mer
-		\-e	the frequency of k-mers to be corrected eg: 1
-		\-s	the solid k-mer threshold weight: Q1/hfreq [1,2....]
-		\-r	refilter weight:(refilter/100)*(readLen-k+1) [1...100] (>r: discard)
-		\-h	for this help
+		-k	the length of k-mer
+		-e	the frequency of k-mers to be corrected eg: 1
+		-s	the solid k-mer threshold weight: Q1/hfreq [1,2....]
+		-r	refilter weight:(refilter/100)*(readLen-k+1) [1...100] (>r: discard)
+		-h	for this help
 
 
 ## Example
@@ -43,4 +43,4 @@ Perl scripts used to test programmes.
 
 - Version: v.1.0
 - Contact: zhangyc@mail.bnu.edu.cn
-- Date: 2016-05-03
+- Date: 2014-12-11
