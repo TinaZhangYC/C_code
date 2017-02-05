@@ -1,6 +1,4 @@
-#nnVar v.1.0
-Contact: zhangyc@mail.bnu.edu.cn
-Date: 2016-05-03# About annVar
+## About annVar
 
 annVar is a tool to utilize update-to-date information to functionally annotate genetic variants detected from diverse genomes (e.g. plants, Escherichia coli, yeast and many others).
 
@@ -26,8 +24,8 @@ Compiling the program requires GCC v4.4.6 or greater.
 Run 'make' in the source directory
 
 
-## Version
+## Information
 
-Version: v.1.0
-Contact: zhangyc@mail.bnu.edu.cn
-Date: 2016-05-03
+- Version: v.1.0
+- Contact: zhangyc@mail.bnu.edu.cn
+- Date: 2016-05-03
