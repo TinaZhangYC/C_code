@@ -27,5 +27,5 @@ Run 'make' in the source directory
 ## Information
 
 - Version: v.1.0
-- Contact: zhangyc@mail.bnu.edu.cn
+- Contact: zhangyc@hotmail.com
 - Date: 2016-05-03
